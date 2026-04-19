@@ -12,14 +12,14 @@ director de Customer Experience (CX) ha pedido que analizar las reseñas que tie
 <img width="1052" height="192" alt="Captura de pantalla 2026-04-19 a las 12 41 11" src="https://github.com/user-attachments/assets/d72fa02c-d7db-4f03-a43e-55d8f0dd838e" />
 
 ## Sentimiento de las reseñas
-<p> Tras probar con NLTK mediante VADER y SPACY, se comprueba que el modelo que mejor rendimiento saca de estas reseñas es Transformers de Torch, saca un alto porcentaje de acierto de sentimiento del usuario sobre > 80%
+<p> Tras probar con NLTK mediante VADER y SPACY, se comprueba que el modelo que mejor rendimiento saca de estas reseñas es Transformers de Torch, saca un alto porcentaje de acierto de sentimiento del usuario sobre > 80%.
 
 ## Detección de topics
 <p> Con BERTOPIC, se analizan las diferentes reseñas para extraer los diferentes topics sobre lo que opinan los usuarios, se configura para que haya un mínimo de 8 repeticiones para que se considere topic.
 
 ## Visualización 
-<p> Se utiliza la librería wordcloud para crear nubes de palabras de cada uno de los topics creados
+<p> Se utiliza la librería wordcloud para crear nubes de palabras de cada uno de los topics creados.
 
 ## Presentación del proyecto
-<p> Se utiliza la web loom para crear un vídeo donde se presente el proyecto y las conclusiones obtenidas, tanto aquí como en la entrega del proyecto se deja el enlace
+<p> Se utiliza la web loom para crear un vídeo donde se presente el proyecto y las conclusiones obtenidas, tanto aquí como en la entrega del proyecto se deja el enlace.
 https://www.loom.com/share/8a63df981e614c41a67b53a5b3746607
