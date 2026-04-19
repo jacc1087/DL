@@ -2,9 +2,9 @@
 
 ## Descripción
 <p> Eres el principal Data Scienctist de la compañía 'Toby Carvery' perteneciente al sector de 'Restaurants & Bar'. El
-director de Customer Experience (CX) ha pedido que analizar las reseñas que tiene la compañía en Trust pilot.
+director de Customer Experience (CX) ha pedido que analizar las reseñas que tiene la compañía en Trust pilot.</p>
 
-## Estracción de datos
+## Extracción de datos
 <p> Los archivos se han comprimido para no superar el límite de 100 MB que tiene Github, solamente hay que descomprimir el archivo 'trustpilot-reviews-123k.csv' una vez descargada la carpeta del proyecto para que carguen correctamente.
 
 ## Limpieza de datos
