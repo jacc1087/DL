@@ -8,5 +8,6 @@ director de Customer Experience (CX) ha pedido que analizar las reseñas que tie
 <p> Los archivos se han comprimido para no superar el límite de 100 MB que tiene Github, solamente hay que descomprimir el archivo 'trustpilot-reviews-123k.csv' una vez descargada la carpeta del proyecto para que carguen correctamente.
 
 ## Limpieza de datos
-<p> En el cuaderno se crea una función que prepara el dataset para el análisis del sentimiento de las reseñas, <img width="1052" height="192" alt="Captura de pantalla 2026-04-19 a las 12 41 11" src="https://github.com/user-attachments/assets/d72fa02c-d7db-4f03-a43e-55d8f0dd838e" />
+<p> En el cuaderno se crea una función que prepara el dataset para el análisis del sentimiento de las reseñas, donde se tratan espacios y saltos de línea, tildes, stopwords con la librería NLTK y se pasa todo a minúscula para un mejor análisis.
+<img width="1052" height="192" alt="Captura de pantalla 2026-04-19 a las 12 41 11" src="https://github.com/user-attachments/assets/d72fa02c-d7db-4f03-a43e-55d8f0dd838e" />
  
